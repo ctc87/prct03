@@ -1,1 +1,6 @@
 Respuestas a las preguntas de la práctica 3
+
+pregunta: 1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
+El desarrollo en distintas ramas persigue que el desarrollo de una aplicación o software es que la  versión estable se mantenga en la rama MASTER y poder ir añadiendo funcionalidades de manera modular desde otras ramas sin afectar al código que ya está en producción.
+
+
